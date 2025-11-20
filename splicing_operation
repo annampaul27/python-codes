@@ -1,0 +1,7 @@
+user_input=input("enter name,age,dob")
+name,age,dob=user_input.split(",")
+print("name:",name)
+print("age:",age)
+print("dob:",dob)
+
+    
